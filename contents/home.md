@@ -2,7 +2,7 @@
 
 [![YJZ27](https://img.shields.io/badge/YJZ27-github-blue?logo=github)](https://github.com/YJZ27)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Currently pursuing a B.Eng. in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), with expected graduation in 2026. My research focuses on livestock facial recognition technologies, particularly occlusion-robust feature extraction methods for agricultural applications.
 
 #### Email
 2022080301005@std.uestc.edu.cn
